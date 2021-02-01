@@ -3,8 +3,10 @@
 
 > 🏆 Dristi won **Most Innovative Mobile App** at **HackViolet 2021**
 
-<img src="Slides/test.gif" width="50%">
+<img src="Slides/Navigation.png" width="25%"> <img src="Slides/Heatmap.png" width="25%"> <img src="Slides/Coverage.png" width="25%">
 
+## Preview
+<img src="Slides/test.gif" width="50%">
 
 ## Inspiration
 India ranked 52 among 57 countries in the Mastercard Index of Women Entrepreneurs with only 3% of Indian Startups being founded by women. Safety of streets at nights and access to emergency services is a big factor in this. We wanted to make something that helped women find safe routes and emergency services.
