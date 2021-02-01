@@ -1,6 +1,11 @@
 # Drishti-Hackviolet
 ### A cross platform mobile application having safety features for people travelling at night.
 
+> 🏆 Dristi won **Most Innovative Mobile App** at **HackViolet 2021**
+
+<img src="Slides/Navigation.png" width=32%> <img src="Slides/Heatmap.png" width=32%> <img src="Slides/Coverage.png" width=32%>
+
+
 ## Inspiration
 India ranked 52 among 57 countries in the Mastercard Index of Women Entrepreneurs with only 3% of Indian Startups being founded by women. Safety of streets at nights and access to emergency services is a big factor in this. We wanted to make something that helped women find safe routes and emergency services.
 
@@ -38,3 +43,9 @@ We have built a Flask Server for backend management.
 
 
 ## Slides
+<img src="Slides/1.png">
+<img src="Slides/2.png">
+<img src="Slides/3.png">
+<img src="Slides/4.png">
+<img src="Slides/5.png">
+<img src="Slides/6.png">
