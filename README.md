@@ -3,7 +3,7 @@
 
 > 🏆 Dristi won **Most Innovative Mobile App** at **HackViolet 2021**
 
-<img src="Slides/Navigation.png" width=32%> <img src="Slides/Heatmap.png" width=32%> <img src="Slides/Coverage.png" width=32%>
+<img src="Slides/Navigation.png" width=25%> <img src="Slides/Heatmap.png" width=25%> <img src="Slides/Coverage.png" width=25%>
 
 
 ## Inspiration
