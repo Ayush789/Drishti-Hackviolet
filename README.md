@@ -48,4 +48,3 @@ We have built a Flask Server for backend management.
 <img src="Slides/3.png">
 <img src="Slides/4.png">
 <img src="Slides/5.png">
-<img src="Slides/6.png">
